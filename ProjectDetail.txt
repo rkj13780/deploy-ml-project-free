@@ -1,0 +1,3 @@
+The current probleme is where can we deploy a ML project free, earlier Heroku was providing the platform but not now.
+  So we will user render.com for this and will work to deploy a simple project.
+  
