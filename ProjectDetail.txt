@@ -1,3 +1,21 @@
 The current probleme is where can we deploy a ML project free, earlier Heroku was providing the platform but not now.
   So we will user render.com for this and will work to deploy a simple project.
+
+Step 1: Train a ML Model -> export pickle file 
+Step 2: Create folder name render-demo,  cd render-demo, create vertual env -> ($python -m venv myenv)-> activate myenv ($myenv/Scripts\activate)
+  2.1 create a file .gitignore file
+  2.2 paste the PKL file which has been optain from Step1.
+
+Step 3: Create Flask app file (app.py)
+  3.1 Create templates folder
+  3.2 crate index.html file under template folder and paste the code over there from repo.
+
+Step 4: install the libraries locally ()
+
+step 5: run locally
+
+step 6: create github repo -> push the code
+
+step 7: Deploy on Render.com 
+
   
