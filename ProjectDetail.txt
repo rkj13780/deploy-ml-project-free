@@ -10,7 +10,8 @@ Step 3: Create Flask app file (app.py)
   3.1 Create templates folder
   3.2 crate index.html file under template folder and paste the code over there from repo.
 
-Step 4: install the libraries locally (pip install -r requirements.txt)
+Step 4: install the libraries locally (pip install -r requirements.txt) (to unstalll use this command $pip freeze > uninstall.txt -> $pip uninstall -r uninstall.txt -y)
+  4.1 $pip install flask numpy==1.25.2 numpy==1.25.2 pandas==2.0.3 scikit-learn==1.2.2 gunicorn
 
 step 5: run locally
 
